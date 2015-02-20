@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServiceTitan Swiper</string>
+    <string name="start_screen_description">This application should be activated from the ServiceTitan Technician App.</string>
+    <string name="open_service_titan_button">Open ServiceTitan</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="please_wait_text">Please wait...</string>
+    <string name="app_host">go.servicetitan.com</string>
+    <string name="app_scheme">stswiper</string>
+    <string name="servic_titan_unavailable">ServiceTitan is not available</string>
+    <string name="connect_swiper">Please Connect Swipe Reader (only Shuttle supported)</string>
+    <string name="to_connect">Card Reader is connecting...</string>
+    <string name="connected">Card Reader is connected</string>
+    <string name="swipe_card_dur_text">Device is ready for use. Please swipe within</string>
+    <string name="swipe_card_not_swiped_timeout_text">Time is out. You did not swipe your card. Please try again.</string>
+    <string name="swipe_card_not_connected_timeout_text">Something went wrong. Please reconnect swipe reader and try again.</string>
+    <string name="swipe_card_processing_text">Getting Card data...</string>
+    <string name="swipe_card_data_received_ok_text">Card data is received</string>
+    <string name="swipe_card_data_received_cancel_text">Card data is not received. Please try again.</string>
+    <string name="swipe_card_error">Swipe error. Please try again.</string>
+    <string name="server_temp_unavailable">Server temporary unavailable. Please try later.</string>
+    <string name="send_button">Send</string>
+    <string name="sending_data_text">Sending data</string>
+    <string name="request_ok">Sending was successful</string>
+    <string name="no_internet_connection">Network is not available</string>
+    <string name="try_again_text">Try Again</string>
+    <string name="successful_message">Sending was successful.</string>
+</resources>
